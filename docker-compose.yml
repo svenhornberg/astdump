@@ -1,0 +1,4 @@
+astdump:
+    build: .
+    volumes:
+    - ./.:/usr/src/app:ro
